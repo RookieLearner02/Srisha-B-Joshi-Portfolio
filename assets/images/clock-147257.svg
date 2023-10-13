@@ -14,15 +14,15 @@
    <feGaussianBlur stdDeviation="1.04638"/>
   </filter>
   <linearGradient id="a">
-   <stop stop-color="#fff" offset="0"/>
-   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   <stop stop-color="#d88" offset="0"/>
+   <stop stop-color="#f8f" stop-opacity="0" offset="1"/>
   </linearGradient>
   <linearGradient id="h" x1="-485.71" x2="-221.36" y1="614.71" y2="332.36" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
   <linearGradient id="g" x1="289.71" x2="325.64" y1="191.53" y2="295.89" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
   <linearGradient id="f" x1="358.93" x2="261.61" y1="516.56" y2="185.9" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
   <radialGradient id="e" cx="-485.71" cy="332.36" r="262.86" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#f0f7f9" offset="0"/>
-   <stop stop-color="#ccc" offset="1"/>
+   <stop stop-color="#f2f7f9" offset="0"/>
+   <stop stop-color="#cbc" offset="1"/>
   </radialGradient>
   <radialGradient id="d" cx="-257.14" cy="353" r="52.319" gradientTransform="matrix(1.6357 -.014127 .0086362 .99996 160.42 -3.6194)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
   <radialGradient id="c" cx="-260.01" cy="219.21" r="37.016" gradientTransform="matrix(-.99219 .12477 -.075183 -.59784 -502.2 415.88)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>

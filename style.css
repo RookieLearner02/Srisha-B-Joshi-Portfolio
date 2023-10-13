@@ -1,38 +1,62 @@
-h2{
-    color: #66bfbf;
-    /*font-family: 'Montserrat', sans-serif;*/
-    font-family: 'Itim', cursive;
-    font-size: 2.5rem;
-    font-weight: 500;
-    padding-bottom: 10px;
+h2 {
+  color: #66bfbf;
+  /*font-family: 'Montserrat', sans-serif;*/
+  font-family: "Itim", cursive;
+  font-size: 2.5rem;
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+.pro {
+  text-decoration: underline;
+}
+.my-name {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  margin: 50px auto 20px auto;
+  /* font-family: 'Sacramento', cursive;*/
+  font-family: "Caveat", cursive;
+  text-align: center;
+}
 
+.title-text {
+  padding-bottom: 10px;
 }
-.pro{
-    text-decoration: underline;
+.my-description {
+  text-align: center;
+  margin-bottom: 50px;
 }
-.my-name{
-    color: #66bfbf;
-    font-size: 5.625rem;
-    margin: 50px auto 20px auto;
-   /* font-family: 'Sacramento', cursive;*/
-    font-family: 'Caveat', cursive;
-    text-align: center;
+.top-container {
+  background-color: #43206b;
+}
+.user-clock {
+  display: block;
+  height: 100px;
+  width: auto;
+  margin-right: auto;
+  margin-left: auto;
 }
 
-.title-text{
-    padding-bottom:  10px;
+.my-image {
+  display: block;
+  border-radius: 50%;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  margin-top: 100px;
 }
-.my-description{
-    text-align: center;
-    margin-bottom: 50px;
+.heads {
+  color: #43206b;
+  margin-top: 0;
+  margin-bottom: 15px;
+  text-align: center;
+  font-weight: bolder;
+  font-size: xxx-large;
 }
-.top-container{
-    background-color: #211E29;
-}
-.user-clock{
-    display: block;
-    height: 100px;
-    width: auto;
-    margin-right: auto;
-    margin-left: auto;
+
+.dots {
+  margin-top: 30px;
+  text-align: center;
+  font-size: 75px;
+  color: #43206b4b;
 }
